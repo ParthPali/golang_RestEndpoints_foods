@@ -11,6 +11,8 @@ Use `go build food.go && ./food` to run the project
 http://localhost:6921/foods/ displays all foods and their respective ID's. 
 Make sure to be in the "Get" method.
 
+![Alt text](/Users/Parth/Documents/GooglecodeIn/go/src/RestEndpoints.jpg?raw=true "Optional Title")
+
 ## Display by ID
 
 http://localhost:6921/foods/(id) displays the food associated with a particular ID. 
